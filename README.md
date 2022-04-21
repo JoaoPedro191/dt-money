@@ -1,16 +1,18 @@
-<div align= "center">
-   <img src="./public/favicon.png">
-   <h1>dt-money<h1> 
+<h1 align="center">dt-money<h1>
+
 <div>
- <div align = "center">
-   <img src= "./public/dt-money.gif">
+    <img src= "./public/dt-money.gif">
 <div>
 
 ---
 
 ## ⌨️ Sobre o projeto
 
+---
+
 Projeto Criado e Apresentado pela Rocketseat💜, neste projeto desenvolvemos um controle de finanças pessoais, com entradas, saídas e total. Podemos tambem, adicionar/cadastrar uma nova Transação , colocando nome, preço, entradas/saídas e a categoria.
+
+---
 
 # 🚀 Tecnologias/Bibliotecas
 
